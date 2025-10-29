@@ -16,7 +16,7 @@ I'm always looking for challenging projects and opportunities to apply my knowle
 ## 📫  Where to Find Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/davi-cf/" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-cf-564b50373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dcfigueiredo134@gmail.com">
